@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lambda_function_payload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TerraGoat/terraform/aws/resources/lambda_function_payload.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

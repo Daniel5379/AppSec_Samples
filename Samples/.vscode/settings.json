@@ -1,0 +1,5 @@
+{
+    "checkov.token": "32ca3890-d117-4df1-afdb-616af903067b::0Fnn4/UiCsJYo9t4nigUi04rUlE=",
+    "checkov.prismaURL": "https://api.prismacloud.io",
+    "checkov.useDebugLogs": true
+}
